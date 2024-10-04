@@ -16,9 +16,6 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKAZJAYA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKAZJAYA&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKAZJAYA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=AKAZJAYA&limit=5&theme=dark&combine_all_yearly_contributions=true" /><br/>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=AKAZJAYA&icon=0&color=0" />
