@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 2nd-year IT Undergrad @ SLIIT | MERN Stack Developer<br>🚀 Passionate about building online shopping & Customer management systems<br>🌐 Experienced in POS systems with a knack for server-side management<br>🎨 Crafting attractive UIs with Tailwind CSS | Dashboard & UI Designer<br>📚 Always learning, creating, and experimenting with new tech!
+👨‍💻 3nd-year IT Undergrad @ SLIIT | MERN Stack Developer<br>🚀 Passionate about building online shopping & Customer management systems<br>🌐 Experienced in POS systems with a knack for server-side management<br>🎨 Crafting attractive UIs with Tailwind CSS | Dashboard & UI Designer<br>📚 Always learning, creating, and experimenting with new tech!
 
 
 ## 🌐 Socials:
